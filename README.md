@@ -13,6 +13,18 @@ Most of my recent development work has been done as part of my internship and li
 
 ---
 
+## Contribution Note
+
+My GitHub contribution graph may not fully represent my activity, as a majority of my work is done using my company account and email during my internship.
+
+---
+
+## Work Identity
+
+- Work GitHub: https://github.com/vinayatnife  
+- Work Email: vinay@nife.io
+---
+
 ## Technical Skills
 
 **Languages**
@@ -53,18 +65,7 @@ While my primary internship contributions are private, my public repositories sh
 
 These projects reflect the type of engineering work I do professionally.
 
----
 
-## Contribution Note
-
-My GitHub contribution graph may not fully represent my activity, as a majority of my work is done using my company account and email during my internship.
-
----
-
-## Work Identity
-
-- Work GitHub: https://github.com/vinayatnife  
-- Work Email: vinay@nife.io
 
 ---
 
